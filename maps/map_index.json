@@ -1,70 +1,70 @@
 [
   {
     "mapId": "m12000",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g12000.png",
     "mapName": "12000 - FlatWorld",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m12000.zip",
     "mapSpawnPos": "0 6 0"
   },
   {
     "mapId": "m12001",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
     "mapName": "12001 - One VS One",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m12001.zip",
     "mapSpawnPos": "-10 122 0"
   },
   {
     "mapId": "m12002",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g12002.png",
     "mapName": "12002 - Random Arena",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m12002.zip",
     "mapSpawnPos": "1871 4 -518"
   },
   {
     "mapId": "m12006",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
     "mapName": "12006 - Tower Defense",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m12006.zip",
     "mapSpawnPos": "0 6 0"
   },
   {
     "mapId": "m12014",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
     "mapName": "12014 - (Old) Jail Break",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m12014.zip",
     "mapSpawnPos": "19 5 150"
   },
   {
     "mapId": "m1004",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
     "mapName": "1004 - (Old) Build Battle",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1004.zip",
     "mapSpawnPos": "-469 18 74"
   },
   {
     "mapId": "m1008_1",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1008.png",
     "mapName": "1008 - BedWars 1",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1008_1.zip",
     "mapSpawnPos": "1762 82 -547"
   },
   {
     "mapId": "m1008_2",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1008.png",
     "mapName": "1008 - BedWars 2",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1008_2.zip",
     "mapSpawnPos": "1682 83 -474"
   },
   {
     "mapId": "m1008_3",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1008.png",
     "mapName": "1008 - BedWars 3",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1008_3.zip",
     "mapSpawnPos": "1666 85 -485"
   },
   {
     "mapId": "m1008_4",
-    "mapIcon": "",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1008.png",
     "mapName": "1008 - BedWars 4",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1008_4.zip",
     "mapSpawnPos": "1666 73 -498"
