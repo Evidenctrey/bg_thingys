@@ -74,7 +74,7 @@
     "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
     "mapName": "1050 - SkyBlock Ice kingdom",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
-    "mapSpawnPos": "-603 85 156"
+    "mapSpawnPos": "-603 85 -156"
   },
   {
     "mapId": "m1050_2",
