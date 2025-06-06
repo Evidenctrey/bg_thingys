@@ -68,5 +68,68 @@
     "mapName": "1008 - BedWars 4",
     "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1008_4.zip",
     "mapSpawnPos": "1666 73 -498"
+  },
+  {
+    "mapId": "m1050_1",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Ice kingdom",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-253 85 156"
+  },
+  {
+    "mapId": "m1050_2",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Skull Island",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-232 89 55"
+  },
+  {
+    "mapId": "m1050_3",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Murloc Island",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-392 82 216"
+  },
+  {
+    "mapId": "m1050_4",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Pumpkin Defence (Arena)",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-75 81 462"
+  },
+  {
+    "mapId": "m1050_5",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Under the Sea",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-420 94 523"
+  },
+  {
+    "mapId": "m1050_6",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Sea Adventure",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-676 93 140"
+  },
+  {
+    "mapId": "m1050_7",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Halloween lobby",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "47 74 660"
+  },
+  {
+    "mapId": "m1050_8",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Poseidon",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-677 84 554"
+  },
+  {
+    "mapId": "m1050_9",
+    "mapIcon": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/g1001.png",
+    "mapName": "1050 - SkyBlock Poseidon",
+    "mapZipUrl": "https://raw.githubusercontent.com/Evidenctrey/bg_thingys/refs/heads/main/maps/m1050.zip",
+    "mapSpawnPos": "-157 92 -216"
   }
 ]
